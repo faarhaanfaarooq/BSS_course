@@ -8,19 +8,31 @@ The goal of this course is to master front-end web development from the ground u
 
 ### Key Learning Objectives:
 
-- **Semantic HTML5:** Structuring web content correctly for SEO and accessibility.
-- **CSS3 Fundamentals:** Mastering colors, fonts, box model, and positioning.
-- **Modern Layouts:** Deep dive into **Flexbox** and **CSS Grid**.
-- **Responsive Design:** Using Media Queries to create mobile-friendly websites.
-- **CSS Variables & Animations:** Enhancing UI/UX with modern CSS features.
-- **Sass (Advanced):** Using the Sass preprocessor for scalable stylesheets.
-- **Real-world Projects:** Building multiple landing pages, portfolios, and UI components.
+- **01-essential-html**: Foundational HTML concepts including document structure, meta tags, semantic elements (headings, paragraphs, lists), and core components like anchor tags and images.
+- **02-forms-and-inputs**: User interaction through HTML forms, exploring various input types (text, checkboxes, radio buttons), attributes, and structured data with datalists and textareas.
+- **03-more-html-elements**: Specialized media and data elements such as audio/video embedding, image maps, tables, iframes, and modern features like SVGs and popovers.
+- **04-css-basics**: Fundamentals of styling, including implementation methods, basic selectors, font/text properties, color systems, and the principles of inheritance and specificity.
+- **05-box-model-and-positioning**: Core of CSS layout, focusing on the box model (padding, margin, border), sizing, overflow management, and various positioning techniques.
+- **06-flexbox**: Deep dive into the Flexbox layout module, covering container and item properties, alignment, justification, and building practical UI components like pricing grids.
+- **07-responsive-media-queries**: Dedicated to responsive design, teaching the use of relative units (rem, em, vh, vw), media queries, and modern container queries for fluid layouts.
+- **08-various-css-features**: Advanced utility features such as CSS custom properties (variables), filters, smooth scrolling, sticky navigation, and the `calc()` function.
+- **09-advanced-selectors**: Enhanced selection precision using attribute selectors, combinators, pseudo-elements (`::before`, `::after`), and functional classes like `:nth-child` and `:has`.
+- **10-css-grid**: Two-dimensional Grid layout system, covering columns, rows, spanning, named lines, and complex layout orchestration with grid-template-areas.
+- **11-transitions-animations-js**: Movement and interactivity, teaching CSS transitions, 2D/3D transforms, keyframe animations, and integrating JavaScript with CSS for dynamic UI effects.
 
 ## 📂 Project Structure
 
-- `/projects`: Contains the main projects built during the course.
-- `/learning-labs`: Small snippets and experiments for specific CSS properties.
-- `/assets`: Images and media used across the course projects.
+- **[01-essential-html](01-essential-html/)**: Foundational HTML elements and meta tags.
+- **[02-forms-and-inputs](02-forms-and-inputs/)**: HTML form structures and various input types.
+- **[03-more-html-elements](03-more-html-elements/)**: Advanced media tags, tables, and SVGs.
+- **[04-css-basics](04-css-basics/)**: Introduction to CSS selectors, colors, and fonts.
+- **[05-box-model-and-positioning](05-box-model-and-positioning/)**: Deep dive into layout geometry and positioning.
+- **[06-flexbox](06-flexbox/)**: Efficient one-dimensional layouts with Flexbox.
+- **[07-responsive-media-queries](07-responsive-media-queries/)**: Strategies for building mobile-first responsive sites.
+- **[08-various-css-features](08-various-css-features/)**: Variables, filters, and dynamic CSS functions.
+- **[09-advanced-selectors](09-advanced-selectors/)**: Complex selectors and pseudo-elements.
+- **[10-css-grid](10-css-grid/)**: Advanced two-dimensional grid layouts.
+- **[11-transitions-animations-js](11-transitions-animations-js/)**: Interactive UI with animations and JavaScript.
 
 ## 🛠️ Tech Stack
 
@@ -31,13 +43,17 @@ The goal of this course is to master front-end web development from the ground u
 
 ## 📖 Progress Log
 
-- [ ] Section 1: Introduction & Setup
-- [ ] Section 2: HTML Fundamentals
-- [ ] Section 3: CSS Fundamentals
-- [ ] Section 4: Flexbox & Layouts
-- [ ] Section 5: CSS Grid
-- [ ] Section 6: Responsive Design
-- [ ] Section 7: Final Projects
+- [x] Section 1: Introduction & Essential HTML
+- [x] Section 2: Forms & Inputs
+- [x] Section 3: More HTML Elements
+- [x] Section 4: CSS Basics
+- [x] Section 5: Box Model & Positioning
+- [x] Section 6: Flexbox
+- [x] Section 7: Responsive Media Queries
+- [x] Section 8: Various CSS Features
+- [x] Section 9: Advanced Selectors
+- [x] Section 10: CSS Grid
+- [x] Section 11: Transitions, Animations & JS
 
 ---
 
