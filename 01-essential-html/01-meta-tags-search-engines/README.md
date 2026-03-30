@@ -1,4 +1,4 @@
-# HTML & CSS Sandbox - Meta Tags
+# HTML & CSS - Meta Tags
 
 This project demonstrates the use of **meta tags** in an HTML document. Meta tags provide metadata about the webpage, which is not displayed directly on the page but is essential for search engines, browsers, and accessibility tools.
 
